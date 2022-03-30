@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @RupeshChougule
-- 👀 I’m interested in Salesforce
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Salesforce Devops
+- 👀 I’m interested in Salesforce technology
+- 🌱 I’m currently learning JavaScript and React (Frontend Web Developer)
+- 💞️ I’m looking to collaborate on Salesforce and Javascript.
 - 📫 How to reach me Email : rupeshchougule3067@gmail.com
+- 📫              LinkedIn : linkedin.com/in/rupesh-chougule-826242172
                       Mobile : +91 7020999026
 
 <!---
